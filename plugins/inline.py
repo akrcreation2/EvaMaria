@@ -23,8 +23,8 @@ async def answer(bot, query):
     if not await inline_users(query):
         await query.answer(results=[],
                            cache_time=0,
-                           switch_pm_text='okDa',
-                           switch_pm_parameter="hehe")
+                           switch_pm_text='ಯಾರೋ ನೀನು',
+                           switch_pm_parameter="ಹ್ಹೆ ಹ್ಹೆ")
         return
 
     if AUTH_CHANNEL and not await is_subscribed(bot, query):
