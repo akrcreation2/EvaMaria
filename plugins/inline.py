@@ -104,8 +104,6 @@ def get_reply_markup(username, query):
             InlineKeyboardButton('𝐒𝐞𝐚𝐫𝐜𝐡 𝐀𝐠𝐚𝐢𝐧', switch_inline_query_current_chat=query),
             InlineKeyboardButton('𝐒𝐡𝐚𝐫𝐞 𝐁𝐨𝐭', url=url),
         ]
-            InlineKeyboardButton('𝐒𝐞𝐚𝐫𝐜𝐡 𝐇𝐞𝐫𝐞', switch_inline_query_current_chat=''),
-        ]
         ]
     return InlineKeyboardMarkup(buttons)
 
