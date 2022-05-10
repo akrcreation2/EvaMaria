@@ -1,6 +1,14 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/Knmlpro2>𝚁𝙰𝙰𝙳𝙷𝙰 𝙺𝚁𝙸𝚂𝙷𝙽𝙰</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+    START_TXT = """
+𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎 {},
+𝙼𝚢 𝚗𝚊𝚖𝚎 𝙸𝚜 <a href=https://t.me/Knmlpro2>𝚁𝙰𝙰𝙳𝙷𝙰 𝙺𝚁𝙸𝚂𝙷𝙽𝙰</a>
+ 
+𝙸 𝚊𝚖 𝚊 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝙱𝚘𝚝 𝚠𝚒𝚝𝚑 𝚖𝚊𝚗𝚢 𝚖𝚘𝚛𝚎 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜 
+
+𝙲𝚕𝚒𝚌𝚔 𝚑𝚎𝚕𝚙 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝚜𝚙𝚎𝚌𝚒𝚊𝚕 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜❤️
+
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚕𝚜𝚘 𝚞𝚜𝚎 𝚖𝚎 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙𝚜 𝚊𝚕𝚜𝚘🎉
+"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -11,7 +19,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Knmlpro2 is a open source project. 
+- Knmlpro2 is a closed source project. 
 - Source - https://github.com/
 
 <b>DEVS:</b>
@@ -104,4 +112,5 @@ Added By - {}
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
+Started meh.....
 """
