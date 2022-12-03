@@ -1,21 +1,3 @@
-
-Tellyps
-/
-botmaker
-Public
-forked from LazyDeveloperr/LazyPrincess
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-botmaker/utils.py
-@LazyDeveloperr
-LazyDeveloperr 🥳 Upgraded 🤩 with KOYEB server 😤
-…
- 1 contributor
-377 lines (344 sloc)  12.5 KB
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from info import AUTH_CHANNEL, LONG_IMDB_DESCRIPTION, MAX_LIST_ELM
